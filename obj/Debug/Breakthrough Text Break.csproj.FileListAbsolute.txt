@@ -1,0 +1,8 @@
+C:\Users\carre\source\repos\Breakthrough Text Break\bin\Debug\Breakthrough Text Break.exe.config
+C:\Users\carre\source\repos\Breakthrough Text Break\bin\Debug\Breakthrough Text Break.exe
+C:\Users\carre\source\repos\Breakthrough Text Break\bin\Debug\Breakthrough Text Break.pdb
+C:\Users\carre\source\repos\Breakthrough Text Break\obj\Debug\Breakthrough Text Break.csproj.AssemblyReference.cache
+C:\Users\carre\source\repos\Breakthrough Text Break\obj\Debug\Breakthrough Text Break.csproj.SuggestedBindingRedirects.cache
+C:\Users\carre\source\repos\Breakthrough Text Break\obj\Debug\Breakthrough Text Break.csproj.CoreCompileInputs.cache
+C:\Users\carre\source\repos\Breakthrough Text Break\obj\Debug\Breakthrough Text Break.exe
+C:\Users\carre\source\repos\Breakthrough Text Break\obj\Debug\Breakthrough Text Break.pdb
